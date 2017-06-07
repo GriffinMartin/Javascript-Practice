@@ -5,4 +5,4 @@ Collection of practice JS apps
 
 [*2.) Budget App*](https://griffinmartin.github.io/Javascript-Practice/Budget-App/)
 
-[*3.) Budget App*](https://griffinmartin.github.io/Javascript-Practice/jquery-github-lookup/)
+[*3.) Jquery Github Lookup*](https://griffinmartin.github.io/Javascript-Practice/jquery-github-lookup/)
